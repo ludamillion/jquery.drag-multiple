@@ -1,0 +1,17 @@
+{
+  "name": "jquery.drag-multiple",
+  "description": "A jQueryUI plugin enabling the selection, drag and drop of multiple ui-draggable elements.",
+  "main": [
+    "src/drag-multiple.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jQuery",
+    "drag",
+    "multiple"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.1",
+    "jquery-ui": ">=1.10.4"
+  }
+}
